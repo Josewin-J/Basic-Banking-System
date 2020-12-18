@@ -1,0 +1,17 @@
+.topnav {
+  overflow: hidden;
+}
+.topnav a {
+  float: right;
+  color: brown; 
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 22px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.topnav a:hover {
+  background-color: white; 
+  color: teal;
+}

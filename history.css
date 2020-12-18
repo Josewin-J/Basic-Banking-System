@@ -1,0 +1,53 @@
+	.nav-ul {
+			list-style-type: none;
+			margin: 0;
+			padding: 5px;
+			overflow: hidden;
+			
+			}
+
+		.nav-li {
+		  float:left;
+		}
+
+		.nav-li a {
+			
+		  display: block;
+		  color:#010114;
+		  text-align: center;
+		  padding: 8px 10px;
+		  text-decoration: none;
+		  text-transform:uppercase;
+		}
+		
+		table{
+			text-align:center;
+			margin-left: auto;
+			margin-right: auto;
+			}
+		th{
+			color: rgb(14, 13, 13);
+			font-family: Arial, Helvetica, sans-serif;
+			font-size:24px;
+			padding:16px;
+		}
+		
+		td{
+			text-align:center;
+			font-size:22px;
+			font-family: "Lucida Console", "Courier New", monospace;
+			color:brown;
+			padding: 0px 20px 0px 20px;
+		}
+		tr{
+			transition: background 0.3s, box-shadow 0.3s;
+		}
+	
+		.buttons{
+			
+			right:42%;
+			text-align:center;
+		}
+		.btn{
+			cursor:pointer;
+		}

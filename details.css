@@ -1,0 +1,65 @@
+
+
+
+
+	.btn{
+			cursor:pointer;
+		}
+		body{
+			text-align:center;
+		}
+	
+		.flat-table-1 tr:hover {
+			background: rgba(0,0,0,0.19);
+			
+		}
+		h1{
+			font-family: Arial, Helvetica, sans-serif;
+			color:palevioletred;
+		}
+		table{
+			text-align:center;
+			margin-left: auto;
+			margin-right: auto;
+			}
+		th{
+			color: rgb(14, 13, 13);
+			font-family: Arial, Helvetica, sans-serif;
+			font-size:24px;
+			padding:16px;
+		}
+		
+		td{
+			text-align:center;
+			font-size:22px;
+			font-family: "Lucida Console", "Courier New", monospace;
+			color:brown;
+			padding: 0px 20px 0px 20px;
+		}
+		tr{
+			transition: background 0.3s, box-shadow 0.3s;
+			
+		}
+		
+		.css-button{
+			margin-left:auto;
+			margin-right:auto;
+		}
+		.button1{
+			color:white;
+			background-color:teal;
+			text-align:center;
+			padding-top:2px;
+		}
+
+		.view{
+			top:50%;
+			padding-top:20px;
+			text-align:center;
+		}
+		.ho{
+			padding-top:50px;
+			padding-bottom:100px;
+		}
+	
+	
