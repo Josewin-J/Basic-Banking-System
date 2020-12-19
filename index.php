@@ -13,7 +13,7 @@
     body{
 	      background-image: url("bg.jpg") ;
 	      background-repeat: no-repeat;
-        background-size: 100%;
+        background-size: cover;
 	    }
   </style>
 
