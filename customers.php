@@ -36,7 +36,7 @@ body{
   <div class="topnav">
   <a href="history.php">TRANSACTION HISTORY</a>
   
- <a href="index.php"><em class="fa fa-home"></em>HOME</a>
+ <a href="index.php"><i class="fa fa-home"></i>HOME</a>
 </div>
 	
 	<br><br><br>
